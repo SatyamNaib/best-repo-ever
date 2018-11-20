@@ -1,2 +1,7 @@
 # best-repo-ever
-satyam nave
+<<<<<<< HEAD
+satyam naib
+=======
+satyam naib
+satyam handsome guy.
+>>>>>>> origin/master
